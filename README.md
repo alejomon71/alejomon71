@@ -96,7 +96,7 @@ Estos proyectos sustentan mis conocimientos como desarrollador, desde programas 
     <a href="https://www.linkedin.com/in/diego-alejndro-montoya-giraldo-44b590287/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="mailto:diego.2005.montoyagiraldo@gmail.com">
+    <a href="diego.2005.montoyagiraldo@gmail.com">
         <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="40" />
     </a>
 </p>
