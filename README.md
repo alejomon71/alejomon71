@@ -65,7 +65,7 @@ Estos proyectos sustentan mis conocimientos como desarrollador, desde programas 
   - [Jeronimo Lopez Montoya](https://github.com/jerolm23)
 
 - **Tecnologías Utilizadas**:
-  - Backend: <img height="15" src="https://skillicons.dev/icons?i=python"/> Python, <img height="15" src="https://skillicons.dev/icons?i=nodejs"/> NodeJS, Flask, <img height="15" src="https://skillicons.dev/icons?i=mysql"/> MySQL
+  - Backend: <img height="15" src="https://skillicons.dev/icons?i=python"/> Python, <img height="15" src="https://skillicons.dev/icons?i=nodejs"/> NodeJS,<img height="15" src="https://skillicons.dev/icons?i=flask"/> Flask, <img height="15" src="https://skillicons.dev/icons?i=mysql"/> MySQL
   - Integraciones: Gmail API, ChatBot
 
 - **Estado**:
